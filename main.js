@@ -1,5 +1,5 @@
 const ACCESS_CODE = "ASR555";
-const LOCK_TIME = 30;
+const LOCK_TIME = 180000;
 const IG_URL = "https://www.instagram.com/amitvaland_14"
 
 
